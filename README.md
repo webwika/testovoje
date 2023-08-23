@@ -12,6 +12,6 @@
 
 Для выполнения задание нужно использовать один из 3х популярных Frontend фреймворков:
 
-AngularJS
-React
-VueJS
+*AngularJS
+*React
+*VueJS
